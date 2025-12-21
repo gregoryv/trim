@@ -1,3 +1,5 @@
+ARCHIVED! Moved to https://sogvin.com/trim
+
 trim - Convenient line trimmer with sane defaults
 
 ![](./trim_logo.svg)
